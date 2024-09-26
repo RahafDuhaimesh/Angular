@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstLesson.Server", "FirstLesson.Server\FirstLesson.Server.csproj", "{EBCAAE98-7C9A-476E-A95D-6F30AA635A39}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "firstlesson.client", "firstlesson.client\firstlesson.client.esproj", "{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCAAE98-7C9A-476E-A95D-6F30AA635A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCAAE98-7C9A-476E-A95D-6F30AA635A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCAAE98-7C9A-476E-A95D-6F30AA635A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCAAE98-7C9A-476E-A95D-6F30AA635A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E798A228-4F55-4F5F-97EA-D500C3C4C228}
+	EndGlobalSection
+EndGlobal
