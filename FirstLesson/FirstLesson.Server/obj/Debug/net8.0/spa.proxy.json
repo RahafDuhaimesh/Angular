@@ -3,7 +3,7 @@
 "ServerUrl": "https://localhost:4200",
 "RedirectUrl": "",
 "LaunchCommand": "npm start",
-"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\FirstLesson.Server\\..\\firstlesson.client",
+"WorkingDirectory": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\FirstLesson.Server\\..\\firstlesson.client",
 "MaxTimeoutInSeconds": "120",
 "KeepRunning": "false"
 }

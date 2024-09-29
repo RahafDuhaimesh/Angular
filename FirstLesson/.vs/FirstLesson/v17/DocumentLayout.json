@@ -1,45 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\",
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\src\\app\\about-us\\about-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\navbar\\navbar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\home\\home.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\category\\category.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\home\\home.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\category\\category.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\src\\app\\about-us\\about-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\src\\app\\about-us\\about-us.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\firstlesson\\firstlesson.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|c:\\users\\orange\\desktop\\angular tasks\\angular\\firstlesson\\firstlesson.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{7BC49DAB-C20D-4324-9F86-BC449E0DBE9A}|firstlesson.client\\firstlesson.client.esproj|solutionrelative:firstlesson.client\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -67,36 +71,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "category.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.ts",
-              "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\category\\category.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.ts",
-              "RelativeToolTip": "firstlesson.client\\src\\app\\category\\category.component.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T14:00:53.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "home.component.css",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.css",
-              "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\home\\home.component.css",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.css",
-              "RelativeToolTip": "firstlesson.client\\src\\app\\home\\home.component.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-26T14:00:38.922Z",
+              "Title": "navbar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\navbar\\navbar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\navbar\\navbar.component.html",
+              "RelativeToolTip": "firstlesson.client\\src\\app\\navbar\\navbar.component.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T09:37:52.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "home.component.css",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.css",
+              "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\home\\home.component.css",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.css",
+              "RelativeToolTip": "firstlesson.client\\src\\app\\home\\home.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-26T14:00:38.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "app.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\app.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\app.component.html",
               "RelativeToolTip": "firstlesson.client\\src\\app\\app.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -104,11 +107,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "category.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.html",
               "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\category\\category.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.html",
               "RelativeToolTip": "firstlesson.client\\src\\app\\category\\category.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -116,36 +119,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "home.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.html",
               "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\home\\home.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\home\\home.component.html",
               "RelativeToolTip": "firstlesson.client\\src\\app\\home\\home.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-26T13:17:51.69Z",
+              "WhenOpened": "2024-09-26T13:17:51.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "firstlesson.client\\src\\app\\app.module.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-09-26T13:07:37.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "app.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\app.module.ts",
-              "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\app.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\app.module.ts",
-              "RelativeToolTip": "firstlesson.client\\src\\app\\app.module.ts",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAGAAAA",
+              "DocumentIndex": 3,
+              "Title": "category.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.ts",
+              "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\category\\category.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\category\\category.component.ts",
+              "RelativeToolTip": "firstlesson.client\\src\\app\\category\\category.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2024-09-26T13:07:37.743Z"
+              "WhenOpened": "2024-09-26T14:00:53.786Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\index.html",
               "RelativeDocumentMoniker": "firstlesson.client\\src\\index.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\index.html",
               "RelativeToolTip": "firstlesson.client\\src\\index.html",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -153,11 +168,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "product.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\product\\product.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\product\\product.component.html",
               "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\product\\product.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\product\\product.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\product\\product.component.html",
               "RelativeToolTip": "firstlesson.client\\src\\app\\product\\product.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -165,11 +180,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "angular.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\angular.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\angular.json",
               "RelativeDocumentMoniker": "firstlesson.client\\angular.json",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\angular.json",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\angular.json",
               "RelativeToolTip": "firstlesson.client\\angular.json",
               "ViewState": "AQIAAE8AAAAAAAAAAAAawFwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -177,11 +192,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "about-us.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\about-us\\about-us.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\about-us\\about-us.component.html",
               "RelativeDocumentMoniker": "firstlesson.client\\src\\app\\about-us\\about-us.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\firstlesson.client\\src\\app\\about-us\\about-us.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\firstlesson.client\\src\\app\\about-us\\about-us.component.html",
               "RelativeToolTip": "firstlesson.client\\src\\app\\about-us\\about-us.component.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",

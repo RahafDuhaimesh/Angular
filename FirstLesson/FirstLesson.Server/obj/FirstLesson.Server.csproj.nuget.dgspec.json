@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj": {}
+    "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj": {
+    "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj",
+        "projectUniqueName": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj",
         "projectName": "FirstLesson.Server",
-        "projectPath": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj",
+        "projectPath": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\FirstLesson.Server\\FirstLesson.Server.csproj",
         "packagesPath": "C:\\Users\\Orange\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\FirstLesson\\FirstLesson.Server\\obj\\",
+        "outputPath": "C:\\Users\\Orange\\Desktop\\Angular Tasks\\Angular\\FirstLesson\\FirstLesson.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Orange\\AppData\\Roaming\\NuGet\\NuGet.Config",
